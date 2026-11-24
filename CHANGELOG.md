@@ -6,6 +6,10 @@
 
 - Alt-Tabber, listed after Heyra with the other Mac app.
 
+### Changed
+
+- The site line leads with alcun.dev, with alasdaircunningh.am beside it.
+
 ## 11 October 2026
 
 ### Changed

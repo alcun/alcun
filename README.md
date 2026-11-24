@@ -1,6 +1,6 @@
 Some things I've made:
 
-- [alasdaircunningh.am](https://alasdaircunningh.am) - my site. There's a [sea](https://alcun.dev/sea) and a [moon](https://alcun.dev/moon).
+- [alcun.dev](https://alcun.dev) / [alasdaircunningh.am](https://alasdaircunningh.am) - my site. There's a [sea](https://alcun.dev/sea) and a [moon](https://alcun.dev/moon).
 - [Mono Studio](https://monostudio.site) - small iOS apps.
 - [Heyra](https://github.com/alcun/heyra-desktop) - hold fn and talk. Dictation that stays on your Mac.
 - [Alt-Tabber](https://github.com/alcun/alt-tabber) - Windows-style alt-tab for macOS. Free and open source.
