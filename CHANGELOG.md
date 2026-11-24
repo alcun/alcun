@@ -1,5 +1,11 @@
 # Changelog
 
+## 24 November 2026
+
+### Added
+
+- Alt-Tabber, listed after Heyra with the other Mac app.
+
 ## 11 October 2026
 
 ### Changed
